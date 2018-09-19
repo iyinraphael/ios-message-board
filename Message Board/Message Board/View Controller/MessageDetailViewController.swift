@@ -18,9 +18,7 @@ class MessageDetailViewController: UIViewController {
     
 
     @IBOutlet weak var textField: UITextField!
-    
     @IBOutlet weak var textView: UITextView!
-    
     @IBAction func send(_ sender: Any) {
     }
     
